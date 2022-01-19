@@ -1,1 +1,13 @@
 Shopify Backend Developer Intern Challenge - Summer 2022 - https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/edit
+
+Steps to execute the program :
+
+1. Java and maven should be installed in the system. 
+Java - 11.0.13 version
+Maven - 3.6.3
+
+2. Go to ShopifyBackendDeveloperInternChallenge folder and run the following commands: 
+  - mvn clean install
+  - ./mvnw spring-boot:run
+
+3. Open http://localhost:8080/ 
